@@ -7,6 +7,8 @@ This is a beginner-level OpenCV project that I built as I started learning compu
 * Pause/Resume drawing (W)
 * Clear canvas (C)
 * Live webcam tracking
+* <img width="1779" height="994" alt="image" src="https://github.com/user-attachments/assets/30c55304-9a9a-4c41-aa1b-4e2868390d35" />
+
 
 ## Technologies Used
 
